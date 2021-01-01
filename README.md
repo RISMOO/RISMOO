@@ -5,6 +5,7 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/QvSqKdU7PCRTaKQkNX/giphy.gif" alt="gift">
+  <link rel="icon" href="animated_favicon.gif" type="image/gif">
 </p>
 
 ***
@@ -29,3 +30,4 @@
 <img src="https://zupimages.net/up/21/53/e5y1.png" alt="gift"></a> 
 </p>
 
+<img src https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333>
