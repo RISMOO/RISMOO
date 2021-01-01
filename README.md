@@ -1,6 +1,6 @@
 
 ## Bienvenue sur mon profil, vous etes ici chez vous 😀
-> ### 👇Comment creer une page présensation sur votre profil en activant la fonctionnalité 👇
-<h1 align="center"> ✨secrete de git hub✨</h1>
+> <h3 align="center">👇Comment creer une page de présensation sur votre profil ? 👇<h3>
+<h4 align="center">En activant la fonctionnalité ✨secrete de git hub✨</h4>
 
  ![](https://media.giphy.com/media/QvSqKdU7PCRTaKQkNX/giphy.gif)
