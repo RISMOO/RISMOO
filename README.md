@@ -12,7 +12,6 @@
 
 > 1. Créer un **New repository** avec le nom de votre profil git hub
 > 2. Un message apparaitra alors et vous signalera que vous avez decouvert une ✨fonctionalité secrete ✨
-
 > 3. Enfin créer un fichier **README.MD** et voila.
 
 ***
@@ -29,5 +28,5 @@
 <a href="https://rismo.fr">
 <img src="https://zupimages.net/up/21/53/e5y1.png" alt="gift"></a> 
 </p>
-
+***
 > [Plus d'infos sur moi par ici ](https://rismo.fr)
