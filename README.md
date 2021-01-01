@@ -23,5 +23,6 @@
 <p align="center">
 <a href="https://www.facebook.com/rismooo/">
 <img src="https://files.softicons.com/download/social-media-icons/social-media-buttons-by-hakan-ertan/png/66x66/facebook.png" alt="gift"></a>
-<img src="https://files.softicons.com/download/social-media-icons/social-media-buttons-by-hakan-ertan/png/66x66/linkedin.png" href="https://www.linkedin.com/in/m-s-91700619b/"alt="gift"> 
+<a href="https://www.linkedin.com/in/m-s-91700619b">
+<img src="https://files.softicons.com/download/social-media-icons/social-media-buttons-by-hakan-ertan/png/66x66/linkedin.png" alt="gift"><:a>
 </p>
