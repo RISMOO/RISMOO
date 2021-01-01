@@ -30,4 +30,4 @@
 <img src="https://zupimages.net/up/21/53/e5y1.png" alt="gift"></a> 
 </p>
 
-<link rel="icon" href="animated_favicon.gif" type="image/gif">
+> [Plus d'infos sur moi par ici ](https://rismo.fr)
