@@ -1,5 +1,5 @@
 
-## Bienvenue sur mon profil, vous etes ici chez vous 😀
+## Bienvenue,
 > <h3 align="center">👇Comment creer une page de présensation sur votre profil ? 👇<h3>
   <h4 align="center">En activant la fonctionnalité <strong>✨SECRETE DE GIT HUB✨</strong></h4>
 
