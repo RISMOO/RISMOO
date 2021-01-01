@@ -28,5 +28,7 @@
 <a href="https://rismo.fr">
 <img src="https://zupimages.net/up/21/53/e5y1.png" alt="gift"></a> 
 </p>
+
 ***
+
 > [Plus d'infos sur moi par ici ](https://rismo.fr)
