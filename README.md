@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Bienvenue sur mon profil, vous etes ici chez vous 😀
+## Bienvenue sur mon profil, vous etes ici chez vous 😀
+> ### 👇Comment creer une page présensation sur votre profil en activant la fonctionnalité 👇
+<p align="center"> ✨**secrete de git hub**✨</p>
+
+ ![](https://media.giphy.com/media/QvSqKdU7PCRTaKQkNX/giphy.gif)
