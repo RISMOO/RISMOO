@@ -9,10 +9,10 @@
 
 ***
 
-> * Créer un **New repository** avec le nom de votre profil git hub
-> * Un message apparaitra alors et vous signalera que vous avez decouvert une ✨fonctionalité secrete ✨
+> 1. Créer un **New repository** avec le nom de votre profil git hub
+> 2. Un message apparaitra alors et vous signalera que vous avez decouvert une ✨fonctionalité secrete ✨
 
-> * Enfin créer un fichier **README.MD** et voila.
+> 3. Enfin créer un fichier **README.MD** et voila.
 
 ***
 <p align="center">
@@ -24,5 +24,5 @@
 <a href="https://www.facebook.com/rismooo/">
 <img src="https://files.softicons.com/download/social-media-icons/social-media-buttons-by-hakan-ertan/png/66x66/facebook.png" alt="gift"></a>
 <a href="https://www.linkedin.com/in/m-s-91700619b">
-<img src="https://files.softicons.com/download/social-media-icons/social-media-buttons-by-hakan-ertan/png/66x66/linkedin.png" alt="gift"><:a>
+<img src="https://files.softicons.com/download/social-media-icons/social-media-buttons-by-hakan-ertan/png/66x66/linkedin.png" alt="gift"></a>
 </p>
