@@ -21,7 +21,7 @@
 
 ## Suivez-moi 
 <p align="center">
-<a href="https://www.facebook.com/rismooo/">
+<a href="https://www.facebook.com/rismo.fr/">
 <img src="https://files.softicons.com/download/social-media-icons/social-media-buttons-by-hakan-ertan/png/66x66/facebook.png" alt="gift"></a>
 <a href="https://www.linkedin.com/in/m-s-91700619b">
 <img src="https://files.softicons.com/download/social-media-icons/social-media-buttons-by-hakan-ertan/png/66x66/linkedin.png" alt="gift"></a>
