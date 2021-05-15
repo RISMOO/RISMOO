@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/m-s-91700619b">
 <img src="https://files.softicons.com/download/social-media-icons/social-media-buttons-by-hakan-ertan/png/66x66/linkedin.png" alt="gift"></a>
 <a href="https://rismo.fr">
-<img src="https://rismo.fr/img/app.png" width="100px" alt="gift"></a> 
+<img src="https://rismo.fr/img/Sale.webp" width="100px" alt="gift"></a> 
 </p>
 
 ***
