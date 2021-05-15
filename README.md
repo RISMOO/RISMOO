@@ -31,4 +31,4 @@
 
 ***
 
-## <a href="https://rismo.fr/#modalNewsletter">Suivez mes actualités on vous inscrivant a la newletter 
+## Ne ratez rien mes actualités on vous inscrivant à la <a href="https://rismo.fr/#modalNewsletter"> NEWSLETTER </a>
