@@ -31,4 +31,4 @@
 
 ***
 
-> [Plus d'infos sur moi par ici ](https://rismo.fr)
+## <a href="https://rismo.fr/#modalNewsletter">Suivez mes actualités on vous inscrivant a la newletter 
